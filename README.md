@@ -26,6 +26,14 @@
   <img src="https://streak-stats.demolab.com?user=SantiSomaSekhar&theme=tokyonight&hide_border=true" />
 </p>
 
+
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiSomaSekhar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 # 📊 Aspiring Data Analyst
 
 Passionate about transforming raw data into meaningful insights using SQL, Python, Excel, Pandas, and Power BI.
