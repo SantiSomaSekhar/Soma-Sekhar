@@ -3,9 +3,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Soma+Sekhar;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Building+Real-World+Data+Analytics+Projects" />
 </p>
 
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=SantiSomaSekhar&style=for-the-badge)
+
+![](https://img.shields.io/github/followers/SantiSomaSekhar?style=for-the-badge)
+
+![](https://img.shields.io/github/stars/SantiSomaSekhar?style=for-the-badge)
+
+</p>
+
 # Hi 👋 I'm Soma Sekhar
-
-
 
 ## 🛠️ Tech Stack
 
