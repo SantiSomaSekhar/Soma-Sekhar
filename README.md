@@ -1,24 +1,34 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Soma+Sekhar;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Building+Real-World+Data+Analytics+Projects" />
-</p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Soma+Sekhar;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Building+Real-World+Data+Analytics+Projects;Always+Learning+New+Skills" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=SantiSomaSekhar&style=for-the-badge)
+<h1 align="center">Hi 👋, I'm Soma Sekhar</h1>
 
-![](https://img.shields.io/github/followers/SantiSomaSekhar?style=for-the-badge)
+<h3 align="center">
+Aspiring Data Analyst | SQL | Python | Excel | Power BI | Pandas
+</h3>
 
-![](https://img.shields.io/github/stars/SantiSomaSekhar?style=for-the-badge)
+<p align="center">
 
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Soma Sekhar
-</h1>
+---
 
+# 📊 About Me
 
+I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights.
 
-## 🛠️ Tech Stack
+I enjoy solving real-world business problems using SQL, Python, Excel, Pandas, and Power BI while continuously improving my analytical and visualization skills.
+
+- 🌱 Currently learning **Advanced SQL, Power BI, Pandas & Python**
+- 📊 Building end-to-end Data Analytics projects
+- 🎯 Goal: Become a professional Data Analyst
+- 📍 India
+
+---
+
+# 🛠 Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,82 +38,81 @@ Hi 👋 I'm Soma Sekhar
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiSomaSekhar&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=SantiSomaSekhar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
-
-## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SantiSomaSekhar&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SantiSomaSekhar&theme=tokyonight&hide_border=true" />
 </p>
-
-## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiSomaSekhar&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiSomaSekhar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
+---
+
+# 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SantiSomaSekhar&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiSomaSekhar&theme=tokyo-night&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiSomaSekhar&theme=tokyo-night&hide_border=true" />
-</p>
+# 🚀 Featured Projects
 
-<h3 align="center">
-📊 Aspiring Data Analyst
-</h3>
+## 🏆 FIFA World Cup SQL Analytics
 
-Passionate about transforming raw data into meaningful insights using SQL, Python, Excel, Pandas, and Power BI.
+- End-to-End SQL Analytics Project
+- Database Design
+- Data Normalization
+- Business Questions
+- Advanced SQL
+- Window Functions
+- Views
+- Business Insights
 
-Currently building real-world analytics projects and continuously improving my data analysis skills.
+---
 
-## About Me
+## 💼 FlowStack SaaS Analytics
 
-- 📊 Aspiring Data Analyst
-- 💻 Learning SQL, Python, Pandas, Excel and Power BI
-- 📈 Building real-world analytics projects
-- 🌱 Currently improving data visualization skills
+- SaaS Database Design
+- ER Diagram
+- SQL Analytics
+- Business Reporting
+- Python (Pandas)
+- Git & GitHub
 
-## Projects
+---
 
-### FIFA World Cup SQL Analytics
+# 📜 Certifications
 
-- SQL database design
-- Data normalization
-- Advanced SQL queries
-- Business insights
+- IBM SkillsBuild Data Analytics *(Completed)*
+- Microsoft Power BI (PL-300) *(Planned)*
 
-### FlowStack SQL Analytics
+---
 
-- Database design
-- ER diagram
-- SQL analytics
-- Business reporting
+# 🌱 Currently Learning
 
-## Connect with Me
+- Advanced SQL
+- Python for Data Analytics
+- Pandas
+- Power BI Dashboard Development
+
+---
+
+# 🤝 Connect With Me
 
 - GitHub: https://github.com/SantiSomaSekhar
 - LinkedIn: https://www.linkedin.com/in/soma-sekhar-santennagari-7569b72b9
 - Email: somasekharsanti@gmail.com
 
-## 🌱 Currently Learning
-
-- Advanced SQL
-- Power BI Dashboard Design
-- Python for Data Analysis
-- Pandas
-
 ---
 
-> "Without data, you're just another person with an opinion."
->
-> — W. Edwards Deming
+> *"Without data, you're just another person with an opinion."*
+> **— W. Edwards Deming**
