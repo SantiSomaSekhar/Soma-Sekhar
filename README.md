@@ -36,6 +36,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SantiSomaSekhar&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiSomaSekhar&theme=tokyo-night&hide_border=true" />
+</p>
+
 # 📊 Aspiring Data Analyst
 
 Passionate about transforming raw data into meaningful insights using SQL, Python, Excel, Pandas, and Power BI.
