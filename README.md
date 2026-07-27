@@ -18,10 +18,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiSomaSekhar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📊 GitHub Stats
+
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiSomaSekhar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SantiSomaSekhar&theme=tokyonight&hide_border=true" />
 </p>
 
 # 📊 Aspiring Data Analyst
