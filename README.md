@@ -12,11 +12,13 @@
 
 </p>
 
-## 🛠️ Tech Stack
-
 <h1 align="center">
 Hi 👋 I'm Soma Sekhar
 </h1>
+
+
+
+## 🛠️ Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,8 +72,6 @@ Currently building real-world analytics projects and continuously improving my d
 - 💻 Learning SQL, Python, Pandas, Excel and Power BI
 - 📈 Building real-world analytics projects
 - 🌱 Currently improving data visualization skills
-
-## Connect with Me
 
 ## Projects
 
