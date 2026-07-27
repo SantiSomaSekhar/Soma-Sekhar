@@ -21,5 +21,5 @@ SQL • Python • Pandas • Excel • Power BI
 ## Connect with Me
 
 GitHub: GitHub: https://github.com/SantiSomaSekhar
-LinkedIn: [www.linkedin.com/in/soma-sekhar-santennagari-7569b72b9](https://www.linkedin.com/in/soma-sekhar-santennagari-7569b72b9)
+LinkedIn: [www.linkedin.com/in/soma-sekhar-santennagari-7569b72b9](https://www.linkedin.com/in/soma-sekhar-santennagari-7569b72b9)      
 Email: santisomasekhar@gmail.com
