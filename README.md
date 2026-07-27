@@ -11,6 +11,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiSomaSekhar&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 # 📊 Aspiring Data Analyst
 
 Passionate about transforming raw data into meaningful insights using SQL, Python, Excel, Pandas, and Power BI.
