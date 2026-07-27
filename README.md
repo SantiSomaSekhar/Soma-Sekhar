@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Soma+Sekhar;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Building+Real-World+Data+Analytics+Projects" />
 </p>
@@ -13,9 +12,11 @@
 
 </p>
 
-# Hi 👋 I'm Soma Sekhar
-
 ## 🛠️ Tech Stack
+
+<h1 align="center">
+Hi 👋 I'm Soma Sekhar
+</h1>
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,7 +56,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiSomaSekhar&theme=tokyo-night&hide_border=true" />
 </p>
 
-# 📊 Aspiring Data Analyst
+<h3 align="center">
+📊 Aspiring Data Analyst
+</h3>
 
 Passionate about transforming raw data into meaningful insights using SQL, Python, Excel, Pandas, and Power BI.
 
