@@ -18,6 +18,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiSomaSekhar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiSomaSekhar&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 # 📊 Aspiring Data Analyst
 
 Passionate about transforming raw data into meaningful insights using SQL, Python, Excel, Pandas, and Power BI.
