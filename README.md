@@ -94,3 +94,16 @@ Currently building real-world analytics projects and continuously improving my d
 - GitHub: https://github.com/SantiSomaSekhar
 - LinkedIn: https://www.linkedin.com/in/soma-sekhar-santennagari-7569b72b9
 - Email: somasekharsanti@gmail.com
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Power BI Dashboard Design
+- Python for Data Analysis
+- Pandas
+
+---
+
+> "Without data, you're just another person with an opinion."
+>
+> — W. Edwards Deming
