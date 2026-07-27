@@ -12,3 +12,8 @@ SQL • Python • Pandas • Excel • Power BI
 - 💻 Learning SQL, Python, Pandas, Excel and Power BI
 - 📈 Building real-world analytics projects
 - 🌱 Currently improving data visualization skills
+
+## Projects
+
+- FIFA World Cup SQL Analytics
+- FlowStack SQL Analytics
