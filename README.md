@@ -46,30 +46,6 @@ I enjoy solving real-world business problems using SQL, Python, Excel, Pandas, a
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SantiSomaSekhar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SantiSomaSekhar&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiSomaSekhar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiSomaSekhar&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ## 🏆 FIFA World Cup SQL Analytics
